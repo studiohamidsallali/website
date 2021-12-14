@@ -1,0 +1,98 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, b, i, small, strong, sub, sup, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, input, textarea, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, menu, time, mark, audio, video, a {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	font-weight: inherit;
+	font-style: inherit;
+	font-family: inherit;
+	vertical-align: baseline;
+	/*background: transparent;*/
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section {
+	display: block; }
+
+html, body {
+	height: 100%; }
+
+html {
+	overflow-y: scroll;
+	-webkit-text-size-adjust: 100%;
+	-webkit-font-smoothing: antialiased;
+	-ms-text-size-adjust: 100%; }
+
+::-moz-selection {
+	background: #000;
+	color: #fff;
+	text-shadow: none; }
+
+::selection {
+	background: #000;
+	color: #fff;
+	text-shadow: none; }
+
+.text {
+		font-family: "Arial Narrow", Helvetica, Arial, sans-serif ;
+		font-size: 72px;
+		font-size-adjust:0.5; 
+		font-weight: normal;
+		line-height: 72px;
+		text-align: left;
+		letter-spacing:none;
+		vertical-align: top;
+}
+	
+a:link {
+	color: #fff;
+	cursor: pointer; 
+	text-decoration: none;}
+
+a:visited {
+	color: #fff;
+	text-decoration: none; }
+
+a:hover {
+		color: #000;
+		text-decoration: none; }
+
+ul, ol {
+	list-style: none; }
+
+strong, b {
+	font-weight: bold; }
+
+em, i {
+	font-style: italic; }
+
+/*hr {
+	margin: 20px 0;
+	border: 0;
+	height: 1px;
+	background: #008e4e; }*/
+
+img {
+	max-width: 100%;
+	height: auto;
+	-ms-interpolation-mode: bicubic; }
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0; }
+
+td {
+	vertical-align: top; }
+
+
+body {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	/*background-color: #ccc;*/
+}
+
+
